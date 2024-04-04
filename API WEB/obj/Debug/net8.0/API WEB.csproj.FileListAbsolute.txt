@@ -1,0 +1,33 @@
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\appsettings.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\API WEB.exe
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\API WEB.deps.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\API WEB.runtimeconfig.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\API WEB.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\API WEB.pdb
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.csproj.AssemblyReference.cache
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.AssemblyInfoInputs.cache
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.AssemblyInfo.cs
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.csproj.CoreCompileInputs.cache
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.sourcelink.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets\msbuild.API WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets\msbuild.build.API WEB.props
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API WEB.props
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API WEB.props
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\scopedcss\bundle\API WEB.styles.css
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.csproj.CopyComplete
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\refint\API WEB.dll
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.pdb
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\API WEB.genruntimeconfig.cache
+C:\Users\casa\Documents\.NET\Poyectos NET\API WEB\API WEB\obj\Debug\net8.0\ref\API WEB.dll
